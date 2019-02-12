@@ -1,0 +1,32 @@
+    .main{
+      padding: 5em;
+      background-color: #64b5f6
+    }
+
+    table{
+      width: 100%;
+      background-color: white;
+    }
+
+    th{
+      text-align: center;
+      background-color: #1a237e;
+      color: white;
+    }
+
+    .yellow-list{
+      background-color: red;
+      color: white;
+    }
+
+    .blue-list{
+      background-color:   #1a237e;
+      color: white;
+    }
+    caption{
+      font-size: 35px;
+    }
+
+    .cent{
+      text-align:   center; 
+    }
